@@ -10,7 +10,6 @@ header {
     background: white;
     /* PROBLEM 1: Make the header stick to the top as you scroll */
     position: fixed;
-
 }
 
 .content {
